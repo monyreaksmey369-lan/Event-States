@@ -10,10 +10,10 @@ function App() {
       <h1>Calculator</h1>
 
       <label>A =</label>
-      <input onKeyUp={onA} />
+      <input />
 
       <label>B =</label>
-      <input onKeyUp={onB} />
+      <input  />
 
       <label>A + B =</label>
 
